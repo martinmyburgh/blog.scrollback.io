@@ -38,6 +38,14 @@ body {
   font-feature-settings: "liga", "dlig";
 }
 
+a {
+  color: #3ca;
+  text-decoration: none;
+  &:hover {
+    text-shadow: 0 0 1px #3ca;
+  }
+}
+
 .logo-readium {
   position: fixed;
   left: 10px;
@@ -132,9 +140,9 @@ body {
     color: #ccc;
     a {
       text-decoration: none;
-      color: #999;
+      color: #3ca;
       &:hover {
-        color: #333;
+        text-shadow: 0 0 1px #3ca;
       }
     }
   }
