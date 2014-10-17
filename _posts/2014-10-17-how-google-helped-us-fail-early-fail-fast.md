@@ -1,6 +1,6 @@
 ---
-layout:post
-title:How Google Helped Us Fail Early, Fail Fast
+layout: post
+title: How Google Helped Us Fail Early, Fail Fast
 ---
 
 ### The end of Askabt and Scrollback beginnings ###
