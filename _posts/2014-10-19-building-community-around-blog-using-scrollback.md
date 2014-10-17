@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building a community around your blog using Scrollback chat
-published: false
+
 ---
 
 The web is buzzing with bloggers. How do you ensure that the reader comes back to your blog and is not distracted by others that cover the same space, probably with similar content as you? To retain your readers and ensure that they keep visiting, it’s important that you go beyond content and build a community around your blog.
