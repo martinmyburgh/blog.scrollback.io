@@ -7,6 +7,8 @@ title: How Google Helped Us Fail Early, Fail Fast
 
 “So what’s the story behind scrollback?”  We are often asked this question and we have given various answers in the past. However, if I have to really scroll back to how it all began, this is how the story would pan out: An unexpected google announcement, two anxious co-founders, a timely pivot, 10 sleepless nights and an impending demo day!
 
+<!--more-->
+
 #### The Google Announcement ####
 
 In May 2013, my co-founder Aravind and I entered the three - month JFDI Accelerator Program in Singapore. We were building a community-powered real-time Q&A platform called Askabt. Having used most of the accelerator seed funding in building the product, the JFDI demo day was probably our only opportunity to pitch to over 130 early-stage Singapore investors and get their interest, or even better, their money.
